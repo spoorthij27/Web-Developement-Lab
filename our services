@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    .info{
+        width:70%;
+        height:450px;
+        background-color: lawngreen;
+        margin-left:auto;
+        margin-right: auto;
+        margin-top:30px;
+        border-style: ridge;
+        border-width:5px;
+        padding-top:3%;
+        padding-bottom:3%;
+        padding-left:5%;
+        padding-right:5%;
+
+
+    }
+    .a{
+        width:250px;
+        background-color: lawngreen;
+        border:5px ridge white;
+        margin-top:auto;
+        padding-top:0mm;
+        padding-bottom: 0mm;
+        
+    }
+    .b{
+        float:left;
+        margin-right: 60px;
+        margin-left:78px;
+        margin-bottom: 95px;
+        
+    }
+        
+     
+
+</style>
+<body>
+   
+    <h1><pre style="font-size:45px;margin-top: auto;margin-bottom:5px;">   Earth & Bloom</pre></h1>
+    <center>
+        <div class="a">
+            <h2 style="color:white;font-size:20px;">OUR SERVICES</h2>
+        </div>
+    </center>
+    <div class="info">
+        <div class="b">
+            <img src="./balcony.jpg" width="200px" height="180px">
+            
+        </div>
+        <div class="b">
+           <img src="./terrace.webp"  width="200px" height="180px">
+        </div>
+        <div class="b">
+            <img src="./kitchen.jpg"  width="200px" height="180px">
+        </div>
+        
+        <div class="b">
+            <img src="./lawn.jpg"  width="200px" height="180px">
+        </div>
+        <div class="b">
+            <img src="./back yard.webp"  width="200px" height="180px">
+        </div>
+        <div class="b">
+            <img src="./ccontainer.jpg"  width="200px" height="180px">
+        </div>
+      
+    </div>
+    
+</body>
+</html>
